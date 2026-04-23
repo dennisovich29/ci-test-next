@@ -1,6 +1,5 @@
 "use client"
 
-import { Fuzzy_Bubbles } from "next/font/google"
 import { useState } from "react"
 
 export default function Home(){
